@@ -12,7 +12,7 @@
 #define USB_AUTO_DEBUG
 
 /* CDROM iso file location */
-#define CDROM_PATH_FILE                 "/data/cdrom/autorun.iso"
+#define CDROM_PATH_FILE                 "/system/cdrom/autorun.iso"
 
 #define UDISK_PATH_FILE                 "/dev/block/vold/179:0"
 

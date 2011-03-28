@@ -209,7 +209,7 @@ static int pid_in_cmd;
 /* 1: UDISK replace CDROM in normal USB composition
    0: not replace
 */
-int udisk_in_norm = 0;
+int udisk_in_norm = 1;
 
 /* Delay time in second to initiate store_file() if failed in the last time   */
 #define STORE_FILE_DELAY            1
