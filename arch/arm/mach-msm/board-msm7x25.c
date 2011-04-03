@@ -131,8 +131,8 @@ static struct usb_mass_storage_platform_data usb_mass_storage_pdata = {
     .nluns          = 0x01,
 #endif
     .buf_size       = 16384,
-    .vendor         = "Android",
-    .product        = "Adapter",
+    .vendor         = "Huawei",
+    .product        = "M860",
 	.release        = 0xffff,
 };
 static struct usb_mass_storage_platform_data usb_mass_storage_tmo_pdata = {
